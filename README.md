@@ -1,5 +1,5 @@
 # Python Game One
-Random Number Generation-Based Game
+[Basic] Random Number Generation-Based Game
 
 1. Install IDLE First Before Doing This. MAKE SURE IT'S IDLE. It's free. I use the Python 3.8.1 Shell. Below is the link to it.
 2. https://www.python.org/downloads/release/python-381/
