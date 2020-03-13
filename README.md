@@ -17,7 +17,7 @@ The program I have coded, will take user input and compare it to that of the RNG
 Want to alter the RNG range?
 Alter this ONLY: randomInteger = random.randint(1,50) > instead of (1,50) input the range you desire. (1,100) will allow you to guess numbers from 1 to 100, for example.
 
-Wnat more attempts?
+Want more attempts?
 Alter these ONLY: while (attempts < (specify desired attempts)):
 Alter these ONLY: if (attempts == (specify new attempts)):
 ^ You will need to do the above so that the program knows when to terminate.
